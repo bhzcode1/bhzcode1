@@ -95,11 +95,11 @@ Exploring customer complaint data to uncover patterns and useful insights.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhzcode1&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=A78BFA&icon_color=8B5CF6&text_color=DCE3F0" alt="GitHub profile stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhzcode1&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=DCE3F0" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhzcode1&card_width=400&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=A78BFA&icon_color=8B5CF6&text_color=DCE3F0" alt="GitHub profile stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhzcode1&layout=compact&card_width=400&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=DCE3F0" alt="Most used languages"/>
 
 <br/>
-<img src="https://streak-stats.demolab.com?user=bhzcode1&hide_border=true&background=0B1020&ring=8B5CF6&fire=E879F9&currStreakLabel=A78BFA&sideLabels=DCE3F0&dates=94A3B8" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=bhzcode1&hide_border=true&background=0B1020&ring=8B5CF6&fire=E879F9&currStreakLabel=A78BFA&sideLabels=DCE3F0&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&stroke=334155" alt="GitHub contribution streak"/>
 
 </div>
 
