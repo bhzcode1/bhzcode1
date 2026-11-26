@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Bhavesh Seervi developer profile banner"/>
+<img src="assets/banner-animated.svg" width="100%" alt="Bhavesh Seervi developer profile banner"/>
 
 <br/>
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Bhavesh+Seervi;CSBS+Student+%40+NMIT;Aspiring+Data+Scientist+%2F+ML+Engineer;Building+AI+that+solves+real+problems" alt="Animated introduction"/></a>
