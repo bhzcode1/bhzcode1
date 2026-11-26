@@ -34,6 +34,12 @@ I'm a **Computer Science and Business Systems (CSBS) student at NMIT** exploring
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch and TensorFlow"/>
 &nbsp; <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+&nbsp; <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
+&nbsp; <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=crewai&logoColor=white" alt="CrewAI"/>
+&nbsp; <img src="https://img.shields.io/badge/jev-6D28D9?style=flat-square" alt="jev"/>
+&nbsp; <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
 
 **DEVELOPMENT & TOOLS**<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,docker,git,github,vscode&theme=dark" alt="FastAPI, Next.js, PostgreSQL, Docker, Git, GitHub, VS Code"/>
