@@ -1,5 +1,8 @@
 <div align="center">
 
+<h1 style="font-size:48px">BHAVESH SEERVI</h1>
+<p><strong>Data Science · Machine Learning · GenAI</strong></p>
+
 <img src="https://raw.githubusercontent.com/bhzcode1/bhzcode1/main/assets/profile-banner.svg" width="100%" alt="Bhavesh Seervi developer profile banner"/>
 
 <br/>
