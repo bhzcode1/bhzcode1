@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b18"/><stop offset=".55" stop-color="#11102a"/><stop offset="1" stop-color="#090d1b"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".52" stop-color="#8b5cf6"/><stop offset="1" stop-color="#e879f9"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#20294a" stop-opacity=".92"/><stop offset="1" stop-color="#0c1224" stop-opacity=".96"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1440" height="360" rx="26" fill="url(#bg)"/>
+<path d="M0 300 C230 180 390 390 650 260 S1050 90 1440 210" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".45"/>
+<path d="M0 330 C250 210 420 420 700 285 S1110 130 1440 245" fill="none" stroke="url(#neon)" stroke-width="1" opacity=".3"/>
+<g opacity=".28" stroke="#7c8dbb" stroke-width="1"><path d="M40 0V360M80 0V360M120 0V360M160 0V360M200 0V360M240 0V360M280 0V360M320 0V360M360 0V360M400 0V360M440 0V360M480 0V360M520 0V360M560 0V360M600 0V360M640 0V360M680 0V360M720 0V360M760 0V360M800 0V360M840 0V360M880 0V360M920 0V360M960 0V360M1000 0V360M1040 0V360M1080 0V360M1120 0V360M1160 0V360M1200 0V360M1240 0V360M1280 0V360M1320 0V360M1360 0V360M1400 0V360"/></g>
+<g transform="translate(790 45)">
+ <rect x="0" y="0" width="260" height="175" rx="13" fill="url(#glass)" stroke="#7c3aed" stroke-width="2"/>
+ <rect x="12" y="12" width="236" height="25" rx="5" fill="#171d34"/>
+ <circle cx="25" cy="24" r="4" fill="#f87171"/><circle cx="39" cy="24" r="4" fill="#fbbf24"/><circle cx="53" cy="24" r="4" fill="#34d399"/>
+ <g font-family="monospace" font-size="12"><text x="18" y="60" fill="#c084fc">def build_future():</text><text x="18" y="83" fill="#7dd3fc">  learn()</text><text x="18" y="106" fill="#a5b4fc">  experiment()</text><text x="18" y="129" fill="#e879f9">  ship_ideas()</text><text x="18" y="152" fill="#6ee7b7">  return "impact"</text></g>
+</g>
+<g transform="translate(1080 32)" filter="url(#glow)">
+ <rect x="0" y="0" width="300" height="190" rx="14" fill="#0a1022" stroke="#38bdf8" stroke-width="2"/>
+ <rect x="15" y="15" width="270" height="160" rx="8" fill="#101a31"/>
+ <g stroke-width="5" stroke-linecap="round"><path d="M34 140L72 112L110 124L150 76L190 94L232 48L266 64" fill="none" stroke="#8b5cf6"/><path d="M34 150L72 132L110 138L150 112L190 120L232 92L266 104" fill="none" stroke="#38bdf8" opacity=".8"/></g>
+ <g fill="#c4b5fd"><circle cx="72" cy="112" r="4"/><circle cx="150" cy="76" r="4"/><circle cx="232" cy="48" r="4"/></g>
+</g>
+<g transform="translate(1060 245)"><rect x="0" y="0" width="340" height="65" rx="12" fill="#10162a" stroke="#5b4ab5"/><text x="22" y="27" fill="#a5b4fc" font-family="monospace" font-size="13">STATUS: BUILDING</text><text x="22" y="49" fill="#e9d5ff" font-family="monospace" font-size="15">ML  •  GENAI  •  OPEN SOURCE</text><circle cx="310" cy="23" r="6" fill="#34d399"/></g>
+<g transform="translate(55 58)"><text x="0" y="22" fill="#a5b4fc" font-family="monospace" font-size="17" letter-spacing="2">BHAVESH SEERVI  /  DEVELOPER PROFILE</text><text x="0" y="100" fill="#f8fafc" font-family="Arial, sans-serif" font-weight="700" font-size="54">Build. Learn. Solve.</text><text x="0" y="145" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="24">Data Science  ·  Machine Learning  ·  GenAI</text><rect x="0" y="174" width="420" height="4" rx="2" fill="url(#neon)"/><text x="0" y="215" fill="#94a3b8" font-family="monospace" font-size="17">NMIT • CBSB • OPEN SOURCE</text></g>
+</svg>
