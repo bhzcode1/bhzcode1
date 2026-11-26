@@ -52,48 +52,39 @@ I'm a **Computer Science and Business Systems (CSBS) student at NMIT** exploring
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Fraud Detection ML
-Machine-learning project focused on identifying fraudulent transactions from data.
+### 🔎 ResearchPilot
+Eval-driven multi-agent research assistant. Every claim is cited to a source chunk, and unanswerable questions are refused.
 
-**Focus:** Classification · Feature Engineering · Model Evaluation
+**Focus:** LangChain · LangGraph · LangSmith · Hybrid RAG · Agent Evals
 
-<a href="https://github.com/bhzcode1/fraud-detection-ml">↗ View repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Insurance Prediction
-Predictive modeling on insurance data, exploring how features influence outcomes.
-
-**Focus:** Data Analysis · Regression · ML Pipeline
-
-<a href="https://github.com/bhzcode1/Insurance-prediction">↗ View repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 AutoQrypt · PQC-02
-Post-quantum secure firmware-update verification for automotive ECUs.
-
-**Focus:** Embedded Security · ESP32 · Post-Quantum Signatures
-
-<a href="https://github.com/imnottaken/AutoQrypt">↗ View repository</a>
+<a href="https://github.com/bhzcode1/researchpilot">↗ View repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 Customer Complaint Analysis
-Exploring customer complaint data to uncover patterns and useful insights.
+### 🧾 Complaint Extraction LLM
+A small fine-tuned LLM that turns free-text consumer complaints into structured JSON, distilled from a larger teacher model and monitored for drift.
 
-**Focus:** Python · Data Analysis · Visualization
+**Focus:** LLM Fine-tuning · Distillation · Drift Monitoring
 
 <a href="https://github.com/bhzcode1/customer-s-complaint">↗ View repository</a>
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎬 YouTube Shorts Automation
+Turns a topic into YouTube Shorts with no human step: Claude picks the best live-stream moments, clips are cut to 9:16 with captions, reviewed by Claude, then uploaded on a daily schedule.
+
+**Focus:** Agentic Automation · Claude · ffmpeg · Scheduling
+
+<a href="https://github.com/bhzcode1/youtube_automate">↗ View repository</a>
+
+</td>
+</tr>
 </table>
+
 
 <p align="center"><a href="https://github.com/bhzcode1?tab=repositories"><b>More projects →</b></a></p>
 
