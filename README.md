@@ -72,7 +72,7 @@ A small fine-tuned LLM that turns free-text consumer complaints into structured 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🎬 YouTube Shorts Automation
 Turns a topic into YouTube Shorts with no human step: Claude picks the best live-stream moments, clips are cut to 9:16 with captions, reviewed by Claude, then uploaded on a daily schedule.
@@ -82,8 +82,19 @@ Turns a topic into YouTube Shorts with no human step: Claude picks the best live
 <a href="https://github.com/bhzcode1/youtube_automate">↗ View repository</a>
 
 </td>
+<td width="50%" valign="top">
+
+### 📈 Retail Sales Forecasting
+Forecasts future retail sales to analyze trends and support data-driven inventory planning.
+
+**Focus:** XGBoost · Time-Series Cross-Validation · Forecasting
+
+<a href="https://github.com/bhzcode1/retail-sales-forecasting">↗ View repository</a>
+
+</td>
 </tr>
 </table>
+
 
 
 <p align="center"><a href="https://github.com/bhzcode1?tab=repositories"><b>More projects →</b></a></p>
