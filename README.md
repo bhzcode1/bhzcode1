@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science and Business Systems (CSBS) student at NMIT** exploring the intersection of **Data Science, Machine Learning, and Generative AI**.
+I'm a **Computer Science and Business Systems (CSBS) student at NMIT** exploring the intersection of **Data Science, Machine Learning, Generative AI, and Agentic AI**, aiming to become a **Forward Deployed Engineer**.
 
 - 🧠 I like understanding the *why* behind models—not just calling APIs.
 - 🛠️ I build practical projects that connect ML with usable software.
