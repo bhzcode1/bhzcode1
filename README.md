@@ -115,6 +115,8 @@ Exploring customer complaint data to uncover patterns and useful insights.
 
 <div align="center">
 <a href="https://github.com/bhzcode1"><img src="https://img.shields.io/badge/GitHub-bhzcode1-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/bhavesh-seervi-385618375/"><img src="https://img.shields.io/badge/LinkedIn-Bhavesh_Seervi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+<a href="https://leetcode.com/u/bhzcode1/"><img src="https://img.shields.io/badge/LeetCode-bhzcode1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
 <a href="mailto:bhaveshbarfa65@gmail.com"><img src="https://img.shields.io/badge/Email-bhaveshbarfa65%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
