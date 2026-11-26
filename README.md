@@ -1,12 +1,9 @@
 <div align="center">
 
-<h1 style="font-size:48px">BHAVESH SEERVI</h1>
-<p><strong>Data Science · Machine Learning · GenAI</strong></p>
-
 <img src="https://raw.githubusercontent.com/bhzcode1/bhzcode1/main/assets/profile-banner.svg" width="100%" alt="Bhavesh Seervi developer profile banner"/>
 
 <br/>
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Bhavesh+Seervi;CBSB+Student+%40+NMIT;Aspiring+Data+Scientist+%2F+ML+Engineer;Building+AI+that+solves+real+problems" alt="Animated introduction"/></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Bhavesh+Seervi;CSBS+Student+%40+NMIT;Aspiring+Data+Scientist+%2F+ML+Engineer;Building+AI+that+solves+real+problems" alt="Animated introduction"/></a>
 <br/>
 <a href="https://github.com/bhzcode1?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
 <a href="https://github.com/bhzcode1?tab=followers"><img src="https://img.shields.io/github/followers/bhzcode1?style=for-the-badge&color=6366f1&label=FOLLOWERS" alt="GitHub followers"/></a>
@@ -17,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science and Business Systems (CBSB) student at NMIT** exploring the intersection of **Data Science, Machine Learning, and Generative AI**.
+I'm a **Computer Science and Business Systems (CSBS) student at NMIT** exploring the intersection of **Data Science, Machine Learning, and Generative AI**.
 
 - 🧠 I like understanding the *why* behind models—not just calling APIs.
 - 🛠️ I build practical projects that connect ML with usable software.
@@ -103,8 +100,6 @@ Exploring customer complaint data to uncover patterns and useful insights.
 
 <br/>
 <img src="https://streak-stats.demolab.com?user=bhzcode1&hide_border=true&background=0B1020&ring=8B5CF6&fire=E879F9&currStreakLabel=A78BFA&sideLabels=DCE3F0&dates=94A3B8" alt="GitHub contribution streak"/>
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhzcode1&bg_color=0B1020&color=DCE3F0&line=8B5CF6&point=E879F9&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
@@ -120,7 +115,7 @@ Exploring customer complaint data to uncover patterns and useful insights.
 
 <div align="center">
 <a href="https://github.com/bhzcode1"><img src="https://img.shields.io/badge/GitHub-bhzcode1-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
-<a href="https://github.com/bhzcode1?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github" alt="Repositories"/></a>
+<a href="mailto:bhaveshbarfa65@gmail.com"><img src="https://img.shields.io/badge/Email-bhaveshbarfa65%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
